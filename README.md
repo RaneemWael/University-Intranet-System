@@ -3,12 +3,12 @@ UI and UX development of a university intranet system.
 
 ## Description:
 
-#### This repository invcludes:
+#### This repository includes:
 
 1. A requirement sheet of the user-requirements, and their corresponding systemrequirements, covering all stakeholders of the system:
-  - Students
-  - TAs
-  - Professors
+   - Students
+   - TAs
+   - Professors
 
 2. A report of the non-functional requirements of the system
 
